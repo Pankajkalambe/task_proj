@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+
+{% block title%}
+   
+    <title>show page</title>
+    
+{% endblock %}
+
+{% block content1%}
+<h1><b><i>Student Information </i></b></h1>
+        <table class="table table-dark">
+            <thead>
+                <tr>
+                    <th>Student ID</th>
+                    <th>Student name</th>
+                    <th>Student Adress</th>
+                    <th colspan="6">Action</th>  
+                </tr>
+            </thead>
+
+        <tbody>
+            {% for i in object %}
+            <tr>
+                <td>{{ i.s_id }}</td>
+                <td>{{ i.name }}</td>
+                <td>{{ i.adds }}</td>
+                <td><a href="{% url 'update_urls' i.s_id %}"><button class="btn btn-warning">Update</button></a></td>
+                <td><a href="{% url 'delete_urls' i.s_id %}"><button class="btn btn-danger">Delete</button></a></td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

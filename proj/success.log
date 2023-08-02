@@ -1,0 +1,57 @@
+INFO 2023-08-02 07:05:41,625 autoreload Watching for file changes with StatReloader
+WARNING 2023-08-02 07:06:16,953 log Not Found: /
+WARNING 2023-08-02 07:06:16,959 basehttp "GET / HTTP/1.1" 404 2160
+WARNING 2023-08-02 07:06:17,106 log Not Found: /favicon.ico
+WARNING 2023-08-02 07:06:17,106 basehttp "GET /favicon.ico HTTP/1.1" 404 2211
+INFO 2023-08-02 07:06:35,499 basehttp "GET /a1/student/ HTTP/1.1" 200 1853
+INFO 2023-08-02 07:06:37,979 basehttp "GET /a1/show/ HTTP/1.1" 200 2572
+INFO 2023-08-02 07:06:39,885 basehttp "GET /a1/show/ HTTP/1.1" 200 2572
+INFO 2023-08-02 07:09:06,416 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\crud_app\views.py changed, reloading.
+INFO 2023-08-02 07:09:07,266 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:09:12,020 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\crud_app\views.py changed, reloading.
+INFO 2023-08-02 07:09:13,204 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:09:14,856 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\crud_app\views.py changed, reloading.
+INFO 2023-08-02 07:09:15,875 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:09:25,560 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\crud_app\views.py changed, reloading.
+INFO 2023-08-02 07:09:26,475 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:09:29,372 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\crud_app\views.py changed, reloading.
+INFO 2023-08-02 07:09:30,448 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:09:33,190 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\crud_app\views.py changed, reloading.
+INFO 2023-08-02 07:09:33,931 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:09:35,583 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\crud_app\views.py changed, reloading.
+INFO 2023-08-02 07:09:36,815 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:09:39,757 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\crud_app\views.py changed, reloading.
+INFO 2023-08-02 07:09:40,838 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:09:42,496 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\crud_app\views.py changed, reloading.
+INFO 2023-08-02 07:09:44,278 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:09:47,340 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\crud_app\views.py changed, reloading.
+INFO 2023-08-02 07:09:49,153 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:09:57,504 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\crud_app\views.py changed, reloading.
+INFO 2023-08-02 07:09:58,866 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:10:05,882 basehttp "GET /a1/show/ HTTP/1.1" 200 2572
+INFO 2023-08-02 07:10:07,108 basehttp "GET /a1/show/ HTTP/1.1" 200 2572
+INFO 2023-08-02 07:11:54,553 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\proj\settings.py changed, reloading.
+INFO 2023-08-02 07:12:00,802 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:12:38,782 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\proj\settings.py changed, reloading.
+INFO 2023-08-02 07:12:40,249 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:12:43,456 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\proj\settings.py changed, reloading.
+INFO 2023-08-02 07:14:05,980 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:15:08,640 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\proj\settings.py changed, reloading.
+INFO 2023-08-02 07:15:13,454 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:15:18,015 basehttp "GET /a1/show/ HTTP/1.1" 200 2572
+INFO 2023-08-02 07:15:39,821 basehttp "GET /a1/update/101/ HTTP/1.1" 200 1901
+INFO 2023-08-02 07:15:41,298 basehttp "POST /a1/update/101/ HTTP/1.1" 302 0
+INFO 2023-08-02 07:15:41,310 basehttp "GET /a1/show/ HTTP/1.1" 200 2572
+INFO 2023-08-02 07:18:01,505 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\crud_app\views.py changed, reloading.
+INFO 2023-08-02 07:18:01,971 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:18:33,208 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\crud_app\views.py changed, reloading.
+INFO 2023-08-02 07:18:33,700 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:18:35,134 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\crud_app\views.py changed, reloading.
+INFO 2023-08-02 07:18:35,722 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:18:38,804 basehttp "GET /a1/show/ HTTP/1.1" 200 2572
+INFO 2023-08-02 07:19:29,854 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\proj\settings.py changed, reloading.
+INFO 2023-08-02 07:19:30,338 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:19:47,196 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\proj\settings.py changed, reloading.
+INFO 2023-08-02 07:21:09,353 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 07:21:30,301 autoreload C:\Users\91865\OneDrive\Desktop\project pre task\proj_task\proj\proj\settings.py changed, reloading.
+INFO 2023-08-02 07:22:56,829 autoreload Watching for file changes with StatReloader
